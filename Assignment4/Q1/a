@@ -1,0 +1,19 @@
+(a) Define a random variable and distinguish between discrete and continuous random variables.
+(b) Give examples of a discrete and a continuous random variable in the context of data science.
+
+(c) Given a random variable X with PDF f(x) = λe^(−λx) for x ≥ 0, Derive the expressions for mean
+and variance of X.
+
+(d) Chidi has 4 white shirts, 9 blue shirts, and 2 gold shirts. Each day, he chooses one shirt to wear
+from all the shirts available in his closet. Each shirt is equally likely to be chosen.
+For parts (a) and (b), assume that Chidi will only wear each individual shirt once
+in any particular week.
+(i) What is the probability that Chidi wears blue shirts every day for the first three days of
+the week?
+(ii) What is the probability that out of the first two days of the week, he wears blue one day
+and gold on the other?
+For the remainder of the question, assume that after wearing a shirt, Chidi puts
+it back in the closet without washing it. This means that he can wear the same
+shirt multiple times.
+(iii) What is the probability that Chidi wears gold shirts every day for a week?
+(iv) What is the probability that Chidi wears at least one white shirt during one week?

@@ -1,0 +1,21 @@
+(a) (i) Explain the concept of matrix inversion and its importance in data science.
+(ii) Compute the inverse of the following matrix (if it exists), using elementary row operations.
+A = (1 2 3
+     0 1 4
+     5 6 0)
+
+(b) For a matrix B = (2 2 3
+                      3 2 1
+                      2 0 2), compute
+(i) |A| using permutation-inversion scheme.
+(ii) A^−1 using the adjoint method.
+
+
+(c) (i) Describe the LU decomposition of a matrix A and hence determine any significance of this
+decomposition in data science.
+(ii) Perform the LU decomposition of the following matrix:
+A = (2 3 1
+     4 7 2
+     6 9 8)
+     
+(iii) Verify the decomposition by multiplying the resulting matrices to obtain A.

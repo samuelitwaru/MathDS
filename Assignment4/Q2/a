@@ -1,0 +1,34 @@
+(a) For the following two systems of equations, draw both equations on the same plane. Comment
+on what you find and what it means about the system of equations.
+(i)     x1 + x2 = 10
+        −x1 + x2 = 0
+
+(ii)    x1 − 2x2 = −3
+        2x1 − 4x2 = 8
+
+
+(b) (i) Define linear programming and explain its importance in data science.
+    (ii) Formulate and solve the following linear programming problem using the graphical method:
+Maximize    z = 3x + 4y
+subject to  x + 2y ≤ 8
+            3x + y ≤ 9
+            x ≥ 0, y ≥ 0
+
+
+
+(c) A large manufacturing company has recently signed a deal to manufacture trail mix for a wellknown food label. This label makes 3 versions of its product - one for airlines, one for grocery stores, and one for gas stations. Each version has a different mixture of peanuts, raisins, and chocolate which serves as the base of the trail mix. The base mixtures are made in 15 kg batches and sent to a second building for packaging. The following table contains the information about the mixes, each row containing the recipe for a 15 kg batch.
+
+                    | Raisins (kg/batch)    | Peanuts (kg/batch)    | Chocolate (kg/batch)  | Sale Price ($/kg)
+----------------------------------------------------------------------------------------------------------------
+Airline (x)         | 7                     | 6                     | 2                     | 4.99
+Grocery (y)         | 2                     | 5                     | 8                     | 6.60
+Gas Station (z)     | 6                     | 4                     | 5                     | 5.50
+----------------------------------------------------------------------------------------------------------------
+
+Table 1: There is also some additional information on the costs of the ingredients, the price the
+manufacturer can charge for the mixtures and the amount of storage allocated for each ingredient.
+Given that the total mixtures of Raisins, Peanuts and Chocolate are 380, 5500 and 620 kgs,
+respectively,
+(i) Write down the system of linear equations for the problem.
+(ii) If the manufacturer wanted to use up all the ingredients in storage each day, how many
+batches of each mixture (airline, gas station, and grocery) should be made?

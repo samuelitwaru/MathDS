@@ -1,0 +1,29 @@
+(a) A glacier in Greenland ‘calves’ (lets fall off into the sea) an iceberg on average twice every
+five weeks. (Seasonal effects can be ignored for this question, and so the calving process
+can be thought of as random, i.e. the calving of icebergs can be assumed to be independent
+events.)
+
+(i) Explain which distribution you would use to estimate the probabilities of different
+numbers of icebergs being calved in different periods, justifying your selection.
+
+(ii) What is the probability that no iceberg is calved in the next three weeks?
+
+(iii) What is the probability that no iceberg is calved in the three weeks after the next three
+weeks?
+
+(iv) What is the probability that exactly five icebergs are calved in the next four weeks?
+
+(v) If exactly five icebergs are calved in the next four weeks, what is the probability that
+exactly five more icebergs will be calved in the four-week period after the next four
+weeks?
+
+(vi) Comment on the relationship between your answers to (iv) and (v).
+
+(b) A doctor claims that the average European is more than 8.5 kg overweight. To test this
+claim, a random sample of 12 Europeans were weighed, and the difference between their
+actual weight and their ideal weight was calculated. The data are:
+14, 12, 8, 13, −1, 10, 11, 15, 13, 20, 7, 14.
+Assuming the data follow a normal distribution, conduct a t test to infer at the 5% significance level whether or not the doctor’s claim is true.
+
+(c) A, B and C throw a die in that order until a six appears. The person who throws the first
+six wins. What are their respective chances of winning?

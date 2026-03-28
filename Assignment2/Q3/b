@@ -1,0 +1,8 @@
+(b) (i) Write a Pseudo code for the Gaussian Elimination method of solving linear systems of
+equations.
+(ii) Following the Pseudo code, write a Python program to implement the Gaussian elimiantation method. The code must ask one to enter the matrix A and the vector b and provide
+the solution x if the solution exists, else it must give an alternative message.
+(iii) Using the program written above, provide the solution to
+x + 2y + z = 4
+2x − 3y + 2z = 1
+3x + y − z = 3.

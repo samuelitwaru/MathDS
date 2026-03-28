@@ -1,0 +1,7 @@
+(a) Two products x and y can be produced on a certain machine. There are 12 hours of machine
+time available to produce these products. Product x requires one hour per unit, and product y
+requires three hours per unit. Both products require the same raw material. Product x uses £4
+of raw materials per unit and product y uses £3. There are £24 of this raw material available
+for these two products. If the goal is to maximise the profits from these two products, given that
+product x contributes £4 per unit to profit, and product y £5 per unit, what quantity of each
+product should be produced? Use Python to implement the Graphical Method to this problem.

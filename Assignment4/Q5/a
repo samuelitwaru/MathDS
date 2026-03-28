@@ -1,0 +1,30 @@
+(a) A continuous random variable X has a p.d.f given by
+f(x) = {
+
+ax ; 0 ≤ x ≤ 1
+a ; 1 ≤ x ≤ 2
+3a − ax ; 2 ≤ x ≤ 3
+0 ; otherwise
+
+(i) Find the value of aand sketch f(x)
+(ii) Determine P(X ≤ 1.5).
+(iii) Find F(x).
+(iv) Determine the expectation and variance of X.
+
+(b) Let X1, . . . , X10 be a random sample from a population with mean 50 and standard deviation 4.
+Let X be the sample mean. Find the expected value and standard deviation of X.
+
+(c) A wireless communication company is considering switching from a per-minute charge to a flat
+monthly fee for unlimited service. It anticipates that this will result in greater usage and would
+like to estimate what the average number of minutes per month per customer will be under the
+new plan. To do this, it offers 1000 customers the flat-fee plan for one month and tracks their
+usage. From past data, the company knows that the standard deviation of monthly minutes is
+about 120 minutes; the company expects that this figure will not change much under the new
+plan. Find the probability that the average among the 1000 test customers will differ from the
+true mean by more than 5 minutes.
+
+(d) A company believes that roughly 35% of consumers rate its brand first in quality. It would
+like to estimate the proportion more accurately and retains a market research firm to survey
+n consumers. Using the initial estimate of 35% as a guide, determine how large n must be to
+ensure that there is only a 5% chance that the estimate from the survey will differ from the true
+value by more than 3 percentage points.

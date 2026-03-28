@@ -1,0 +1,13 @@
+(a) Events A, B, and C have the following probabilities
+P(A) = 0.4, P(B) = 0.5, P(C) = 0.1, P(A|B) = 0.2, P(B|C) = 0, P(C|A) = 0.25.
+Are the following statements ”True” or ””False”?
+(i) C implies A.
+(ii) B and C are mutually exclusive.
+(iii) AUBUC = S.
+(b) What is P(B|A)?
+(c) What is P(B|A^c)?
+(d) Two fair dice are thrown.
+(i) Determine the probability distribution of the sum of the two dice, X, and find its mean
+and variance.
+(ii) Determine the probability distribution of the absolute difference of the two dice, Y ,
+and find its mean and variance.

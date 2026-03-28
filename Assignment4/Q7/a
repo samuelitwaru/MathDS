@@ -1,0 +1,39 @@
+(a) In an effort to learn more about visitors to social media websites, you have collected data on
+whether or not individuals have visited certain sites in the past week. These are binary variables
+indicating if the website has been visited (“1”) or not (“0”). Using the following data-set, answer
+the questions below.
+Name FB Insta Link X Tik YouTube Mail
+Tito 1 1 0 0 0 0 0
+Jojo 0 1 0 0 0 1 1
+Loki 0 1 1 1 1 1 1
+Niko 0 0 1 1 1 1 1
+Yaya 1 0 0 1 0 1 1
+Kujo 1 1 1 0 0 0 1
+Arod 0 0 0 0 1 0 0
+Park 1 1 1 1 0 1 1
+Yorp 0 1 0 1 0 0 0
+Hoki 0 0 1 1 0 1 1
+(i) Suppose we were interested to know how many social media sites two users have in common
+- we intend to use this as a sort of similarity score to inform us which users might have
+similar preferences. What matrix operation might be useful to compute this similarity
+score? In particular, let t represent the data for Tito so that
+t = [t1, t2, . . . , t7] = [1 1 0 0 0 0 0]
+Likewise, let j represents the data for Jojo:
+j = [j1, j2, . . . , j7] = [0 1 0 0 0 1 1]
+
+Write down an arithmetic expression using t and j that will compute the number of social
+media sites that Tito and Jojo have in common.
+
+(ii) Repeat the same exercise from part (i) with the users Hoki and Yorp.
+(iii) Consider using the information from parts (i) and (ii) to come up with a formula to compute
+ALL of the pairwise similarity scores in one matrix. What information do the diagonal entries of this matrix provide? Note: a similarity matrix has rows and columns corresponding
+to the same entities (in this case, the users) and the (i, j)
+th entry in the matrix would tell
+us the similarity score of user i and and user j.
+(iv) What if our goal was not to examine similar users, but to examine similarities between social
+media sites? Reframe the above analysis to pertain to the similarity between websites, so
+the similarity score between Facebook (FB) and Instagram (Insta) is computed to be the
+number of users in the dataset using both sites. What information do the diagonal entries
+of this matrix provide?
+(v) What words describe the similarity matrices found in part (iii) and (iv)? Rectangular?
+Square? Symmetric? Diagonal? Upper Triangular? Identity?

@@ -1,0 +1,21 @@
+The following table, published in USA Today, lists divorce rates and mobility rates for different regions of the USA. The divorce rate is measured as the annual number of divorces per 1,000 population, and the mobility rate is the percentage of people living in a different household from five years before.
+Region                 | Mobility rate (x-variable) | Divorce rate (y-variable)
+-------------------------------------------------------------------------------
+New England            | 41                         | 4.0
+Middle Atlantic        | 37                         | 3.4
+East North Central     | 44                         | 5.1
+West North Central     | 46                         | 4.6
+South Atlantic         | 47                         | 5.6
+East South Centra      | 44                         | 6.0
+West South Central     | 50                         | 6.5
+Mountain               | 57                         | 7.6
+Pacific                | 56                         | 5.9
+
+Summary statistics for the dataset are: 
+
+
+(i) Calculate the sample correlation coefficient and comment on its value.
+(ii) Calculate the regression equation.
+(iii) Plot the points on a scatter diagram and draw the line of best fit.
+(iv) Compute the expected divorce rate if the mobility rate is 40.
+(v) Why might it be reasonable to use the divorce rate as the y variable?

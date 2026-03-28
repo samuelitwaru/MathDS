@@ -1,0 +1,21 @@
+Logical operators (i.e. NOT, AND, OR, XOR, etc) are the building blocks of any computational
+device. Logical functions return only two possible values, true or false, based on the truth or false
+values of their arguments. For example, operator AND returns true only when all its arguments
+are true, otherwise (if any of the arguments is false) it returns false. If we denote truth by 1 and
+false by 0, then logical function AND can be represented by the following table:
+
+x1          | 0 | 1 | 0 | 0 
+x2          | 0 | 0 | 1 | 1 
+x1 AND x2:  | 0 | 0 | 0 | 0 
+
+This function can be implemented by a single-unit with two inputs:
+
+<fig6>
+
+if the weights are w1 = 1 and w2 = 1 and the activation function is: 
+
+<fig7>
+
+(i) Test how the neural AND function works.
+(ii) Suggest how to change either the weights or the threshold level of this single-unit in order
+to implement the logical OR function (true when at least one of the arguments is true):

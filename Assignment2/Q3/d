@@ -1,0 +1,5 @@
+(d) Use either Python or R to;
+(i) fit a linear regression model to the following data points:
+(1, 2),(2, 3),(3, 4),(4, 5)
+and find the coefficients.
+(ii) Plot the data points and the fitted regression line.

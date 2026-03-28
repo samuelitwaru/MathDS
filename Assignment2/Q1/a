@@ -1,0 +1,4 @@
+The node has three inputs x = (x1, x2, x3) that receive only binary signals (either 0 or 1). How
+many different input patterns this node can receive? What if the node had four inputs? Five?
+Can you give a formula that computes the number of binary input patterns for a given number
+of inputs?

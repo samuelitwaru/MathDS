@@ -1,0 +1,14 @@
+Consider the unit shown on Figure 1. Suppose that the weights corresponding to the three inputs
+have the following values:
+w1 = 2
+w2 = −4
+w3 = 1
+
+and the activation of the unit is given by the step-function:
+<fig2>
+
+Calculate what will be the output value y of the unit for each of the following input patterns:
+<fig3>
+
+given the weighed sum is 
+<fig4>
